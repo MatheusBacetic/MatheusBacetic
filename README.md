@@ -11,8 +11,7 @@
   <img height="180em" src="https://skillicons.dev/icons?i=js,html,css,c,react,angular"/>)
 </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
+<div style="display: inline_block"><br>  
   ##
   
  <div> 
