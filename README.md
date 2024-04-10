@@ -1,4 +1,4 @@
-## Salve familia
+
 
 - 🔭 I’m currently studying at FCI Mackenzie 
 - 🌱 I’m currently learning C
