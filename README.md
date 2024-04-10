@@ -8,7 +8,7 @@
   <a href="https://github.com/MatheusBacetic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusBacetic&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBacetic&layout=compact&langs_count=7&theme=dracula"/>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,react,angular)](https://skillicons.dev)
+  <img height="180em" src="https://skillicons.dev/icons?i=js,html,css,c,react,angular"/>)
 </div>
 
 <div style="display: inline_block"><br>
