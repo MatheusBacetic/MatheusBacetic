@@ -2,10 +2,13 @@
 
 🔭 I’m currently a student at FCI Mackenzie, where I am pursuing my studies with great enthusiasm and dedication.
 <br>
+
 🌱 At the moment, I am focusing in data analysis and enhancing my programming skills.
 <br>
+
 :exclamation: I possess a strong knowledge of several programming languages and frameworks, including Javascript, React, Angular, C, Python, and MySQL.
-<br>
+<br> 
+
 📫 You can reach out to me via email at matheusbacetic@gmail.com. I am always open to discussing new opportunities, collaborations, and projects.
 <div align="center">
   <a href="https://github.com/MatheusBacetic">
