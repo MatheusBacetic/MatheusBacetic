@@ -1,9 +1,9 @@
 
 
-- 🔭 I’m currently studying at FCI Mackenzie 
-- 🌱 I’m currently learning C
-- :exclamation: Knowledge of Javascript, React and Angular
-- 📫 How to reach me: matheusbacetic@gmail.com
+-🔭 I’m currently a student at FCI Mackenzie, where I am pursuing my studies with great enthusiasm and dedication.
+-🌱 At the moment, I am focusing in data analysis and enhancing my programming skills.
+-:exclamation: I possess a strong knowledge of several programming languages and frameworks, including Javascript, React, Angular, C, Python, and MySQL.
+-📫 You can reach out to me via email at matheusbacetic@gmail.com. I am always open to discussing new opportunities, collaborations, and projects.
 <div align="center">
   <a href="https://github.com/MatheusBacetic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBacetic&layout=compact&langs_count=7&theme=dracula"/>
