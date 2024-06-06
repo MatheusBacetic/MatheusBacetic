@@ -6,14 +6,14 @@
 🌱 At the moment, I am focusing in data analysis and enhancing my programming skills.
 <br>
 
-:exclamation: I possess a strong knowledge of several programming languages and frameworks, including Javascript, React, Angular, C, Python, and MySQL.
+:exclamation: I possess a strong knowledge of several programming languages and frameworks, including Python and MySQL.
 <br> 
 
 📫 You can reach out to me via email at matheusbacetic@gmail.com. I am always open to discussing new opportunities, collaborations, and projects.
 <div align="center">
   <a href="https://github.com/MatheusBacetic">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBacetic&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://skillicons.dev/icons?i=js,html,css,c,react,angular,python,mysql"/>
+  <img height="180em" src="https://skillicons.dev/icons?i=python,mysql"/>
 </div>
 <div style="display: inline_block"><br>  
  <div> 
