@@ -1,23 +1,47 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"/>
+  <h1 style="display: inline-block">Olá, eu sou o Matheus Bacetic!</h1>
+</div>
 
+<div align="center">
+  <h3>🎓 Estudante de Ciência da Computação @ FCI Mackenzie</h3>
+  <p>Focado em transformar dados em decisão e código em solução.</p>
+</div>
 
-🔭 I’m currently a student at FCI Mackenzie, where I am pursuing my studies with great enthusiasm and dedication.
 <br>
 
-🌱 At the moment, I am focusing in data analysis and enhancing my programming skills.
+### 🚀 Sobre Mim
+Sou um entusiasta de tecnologia explorando o melhor dos dois mundos: **Análise de Dados** e **Desenvolvimento Web**. Atualmente, estou focado em criar sistemas performáticos e escaláveis.
+
+- 🔭 **Atualmente trabalhando em:** [EvoPG] - Um sistema ERP completo focado em performance (Vanilla JS + Supabase).
+- 🌱 **Estudando:** Arquitetura de Software, Modelagem de Dados e Cloud Computing (AWS/Vercel).
+- 💡 **Interesses:** Data Science, Automação e Sistemas Distribuídos.
+
 <br>
 
-:exclamation: I possess a strong knowledge of several programming languages and frameworks, including Python and MySQL.
-<br> 
+### 🛠️ Arsenal Tecnológico
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css,supabase,git,vscode,vercel&perline=9" />
+</div>
 
-📫 You can reach out to me via email at matheusbacetic@gmail.com. I am always open to discussing new opportunities, collaborations, and projects.
+<br>
+
+### 📊 Github Stats
 <div align="center">
   <a href="https://github.com/MatheusBacetic">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBacetic&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://skillicons.dev/icons?i=python,mysql"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBacetic&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBacetic&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
+  </a>
 </div>
-<div style="display: inline_block"><br>  
- <div> 
-  <a href = "mailto:matheusbacetic@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
-  
+
+<br>
+
+### 📫 Vamos Conversar?
+<div align="center"> 
+  <a href="mailto:matheusbacetic@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+</div>
