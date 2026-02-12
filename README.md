@@ -31,8 +31,8 @@ Sou um entusiasta de tecnologia explorando o melhor dos dois mundos: **Análise 
 ### 📫 Vamos Conversar?
 <div align="center"> 
   <a href="mailto:matheusbacetic@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
   <a href="https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
