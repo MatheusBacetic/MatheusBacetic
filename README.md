@@ -26,14 +26,6 @@ Sou um entusiasta de tecnologia explorando o melhor dos dois mundos: **Análise 
 
 <br>
 
-### 📊 Github Stats
-<div align="center">
-  <a href="https://github.com/MatheusBacetic">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusBacetic&show_icons=true&theme=dracula&hide_border=true" height="150" alt="stats graph" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusBacetic&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" alt="languages graph" />
-  </a>
-</div>
-
 <br>
 
 ### 📫 Vamos Conversar?
