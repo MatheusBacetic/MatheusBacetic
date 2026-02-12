@@ -29,8 +29,9 @@ Sou um entusiasta de tecnologia explorando o melhor dos dois mundos: **Análise 
 <br>
 
 ### 📫 Vamos Conversar?
-<div align="center"> 
-  <sub>matheusbacetic@gmail.com</sub>
+<sub>matheusbacetic@gmail.com</sub>
+<br>
+<div align="center">  
   <a href="https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
