@@ -22,17 +22,6 @@ Meu objetivo é iniciar minha carreira em Cyber Security e continuar evoluindo a
 
 ---
 
-## 🎯 Atualmente
-
-* 🔐 Estudando Cyber Security
-* 🐧 Aprofundando conhecimentos em Linux
-* 🌐 Praticando Redes e Segurança Web
-* 💻 Desenvolvendo projetos em C e Python
-* 🧪 Construindo laboratórios próprios para estudo
-* 📚 Seguindo uma trilha focada em Red Team e Segurança Ofensiva
-
----
-
 ## 🔐 Projetos de Cyber Security
 
 ### Firewall Stateful com nftables + Nginx
@@ -51,21 +40,6 @@ Projeto de hardening de servidor Linux utilizando nftables para proteger um serv
 **Tecnologias**
 
 Linux • nftables • Nginx • SSH • TCP/IP
-
----
-
-### Roadmap Red Team
-
-Trilha prática de estudos voltada para formação em Cyber Security.
-
-**Tópicos estudados**
-
-* Redes
-* Linux
-* Web Security
-* Python para Segurança
-* Active Directory
-* Portfólio Técnico
 
 ---
 
