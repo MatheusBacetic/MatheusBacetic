@@ -1,65 +1,43 @@
 <h1 align="center">Matheus Bacetic</h1>
 
 <p align="center">
-  Cyber Security Student • Linux • Network Security
+Cyber Security Student • Linux • Network Security
 </p>
 
 <p align="center">
-  Universidade Presbiteriana Mackenzie
+Universidade Presbiteriana Mackenzie
 </p>
 
 ---
 
-## Sobre
+```text
+root@matheus:~# whoami
+```
 
-Estudante de Ciência da Computação focado em Cyber Security.
+Estudante de Ciência da Computação com foco em Cyber Security.
 
-Atualmente estudo Linux, Redes, Segurança Web e Segurança Ofensiva através de laboratórios próprios e projetos práticos.
+Atualmente estudo Linux, Redes, Segurança Web e Engenharia de Segurança através de laboratórios próprios, documentação técnica e projetos práticos.
+
+Tenho experiência com programação em C e Python, utilizando ambas as linguagens para compreender melhor sistemas, automação e fundamentos de segurança.
 
 ---
 
-## Projetos
+```text
+root@matheus:~# interests
+```
 
-### Firewall Stateful com nftables + Nginx
-
-Hardening de servidor Linux utilizando nftables, whitelist por IP, logging e controle de acesso.
-
-**Recursos**
-
-* Default Deny Policy
-* IP Whitelist
-* Logging com journalctl
-* SSH em porta customizada
-* Connection Tracking
-* Proteção de servidor Nginx
-
-### Web Security Labs
-
-Estudos práticos de segurança de aplicações.
-
-**Conteúdo**
-
-* OWASP Top 10
-* SQL Injection
-* Cross-Site Scripting (XSS)
-* Authentication
-* Authorization
-
-### Linux & Networking Labs
-
-Laboratórios voltados para administração Linux e fundamentos de redes.
-
-**Conteúdo**
-
-* Linux Administration
-* SSH
-* Troubleshooting
-* Network Services
+* Linux
+* Network Security
+* Web Security
+* Security Engineering
 * System Hardening
+* Defensive Security
 
 ---
 
-## Tecnologias
+```text
+root@matheus:~# tools
+```
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,c,python,bash,git,nginx,vscode" />
@@ -67,27 +45,24 @@ Laboratórios voltados para administração Linux e fundamentos de redes.
 
 ---
 
-## Atualmente estudando
+```text
+root@matheus:~# status
+```
 
-* Linux
-* Network Security
-* Web Security
-* Security Engineering
-* Defensive Security
-
----
-
-## Contato
-
-**LinkedIn**
-
-[linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a](https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a)
-
-**Email**
-
-[matheusbacetic@gmail.com](mailto:matheusbacetic@gmail.com)
+```text
+Linux         ████████████
+Networking    ████████████
+Cybersecurity ████████████
+Learning      ████████████
+```
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a">LinkedIn</a> •
+  <a href="mailto:matheusbacetic@gmail.com">Email</a> •
+  <a href="https://portfolio-nine-sage-r9s6v4x0xy.vercel.app/">Portfolio</a>
+</p>
 
 <p align="center">
 Build. Learn. Document.
