@@ -1,19 +1,16 @@
-````md
 <h1 align="center">Matheus Bacetic</h1>
 
 <p align="center">
-Cyber Security Student • Linux • Network Security • C • Python
+  Cyber Security Student • Linux • Network Security
 </p>
 
 <p align="center">
-Universidade Presbiteriana Mackenzie
+  Universidade Presbiteriana Mackenzie
 </p>
 
 ---
 
-```console
-$ whoami
-````
+## Sobre
 
 Estudante de Ciência da Computação focado em Cyber Security.
 
@@ -21,9 +18,7 @@ Atualmente estudo Linux, Redes, Segurança Web e Segurança Ofensiva através de
 
 ---
 
-```console
-$ ls projects/
-```
+## Projetos
 
 ### Firewall Stateful com nftables + Nginx
 
@@ -50,21 +45,29 @@ Estudos práticos de segurança de aplicações.
 * Authentication
 * Authorization
 
+### Linux & Networking Labs
+
+Laboratórios voltados para administração Linux e fundamentos de redes.
+
+**Conteúdo**
+
+* Linux Administration
+* SSH
+* Troubleshooting
+* Network Services
+* System Hardening
+
 ---
 
-```console
-$ cat technologies.txt
-```
+## Tecnologias
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,c,python,bash,git,vscode,nginx" />
+  <img src="https://skillicons.dev/icons?i=linux,c,python,bash,git,nginx,vscode" />
 </p>
 
 ---
 
-```console
-$ current-focus
-```
+## Atualmente estudando
 
 * Linux
 * Network Security
@@ -74,13 +77,11 @@ $ current-focus
 
 ---
 
-```console
-$ contact
-```
+## Contato
 
 **LinkedIn**
 
-linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a
+[linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a](https://www.linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a)
 
 **Email**
 
@@ -88,18 +89,6 @@ linkedin.com/in/matheus-veiga-bacetic-joaquim-a6552723a
 
 ---
 
-```console
-[ SYSTEM STATUS ]
-```
-
-```text
-Linux      ██████████████
-Networking ██████████████
-Learning   ██████████████
-Curiosity  ██████████████
-```
-
 <p align="center">
 Build. Learn. Document.
 </p>
-```
